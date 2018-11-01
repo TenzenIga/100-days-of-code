@@ -20,6 +20,6 @@
 
 **Thoughts:** tasks : Setting up watching mode on Gulp was harder than I thought due to confusion with versions
 
-### Day 3: 01, 2018 
+### Day: November 1, 2018 
 
 **Today's Progress**: Did challenges with JS and RegExps. Starting to implement the frontend of this webpage https://pikabu.ru/  
