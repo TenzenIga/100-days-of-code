@@ -14,3 +14,12 @@
 
 **Thoughts:** tasks : Make a copy of a template using pug/sass/gulp  
 
+### Day 2: October 31, 2018 
+
+**Today's Progress**: learned Gulp via FCC
+
+**Thoughts:** tasks : Setting up watching mode on Gulp was harder than I thought due to confusion with versions
+
+### Day 3: 01, 2018 
+
+**Today's Progress**: Did challenges with JS and RegExps. Starting to implement the frontend of this webpage https://pikabu.ru/  
